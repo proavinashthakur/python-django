@@ -1,0 +1,16 @@
+li a{
+  color:green;
+  font-size:36px;
+  font-family:arial black;
+}
+
+li a:visited{
+    color:red;
+    font-size:36px;
+    font-family:arial black;
+}
+
+body {
+    background: white url("images/background.jpeg") no-repeat;
+    background-size:100% 100vh;
+}
